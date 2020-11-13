@@ -1,0 +1,7 @@
+01 7 * * 1 /etc/init.d/njitclient start
+03 7 * * 2 /etc/init.d/njitclient start
+05 7 * * 3 /etc/init.d/njitclient start
+02 7 * * 4 /etc/init.d/njitclient start
+04 7 * * 5 /etc/init.d/njitclient start
+01 0 * * 1-5 killall njit-client
+01 0 * * 1-5 killall udhcpc

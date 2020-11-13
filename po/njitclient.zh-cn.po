@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "Configure NJIT 802.11x client."
+msgstr "配置 NJIT 802.11x Client"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Interfaces"
+msgstr "接口"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Username"
+msgstr "用户名"
